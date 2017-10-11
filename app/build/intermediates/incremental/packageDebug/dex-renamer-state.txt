@@ -1,0 +1,4 @@
+#Tue Oct 10 23:13:51 PDT 2017
+base.0=E\:\\androidHomework\\Password2\\ch05_ex2_TipCalculator1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\androidHomework\\Password2\\ch05_ex2_TipCalculator1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
